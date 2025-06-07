@@ -1,1 +1,1 @@
-# ML_LAB
+# Machine Learning lab 2022 scheme
